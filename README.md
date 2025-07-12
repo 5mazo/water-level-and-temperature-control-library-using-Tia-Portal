@@ -127,11 +127,6 @@ The HMI interface was built using **Siemens WinCC** in TIA Portal. To make the s
 - 🔄 Reset to initialize values.
 - 🔘 Heater ON/OFF status.
 - 🌡️ Real-time value display.
-
-📸 Sample HMI Screenshot:
-
-![HMI Screenshot](68f2f0f7-b1e5-42f0-a43b-3e5c14311bcd.png)
-
 ---
 
 ## 🎥 Demo Video
